@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Canor</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_placeholder">Something went wrong…</string>
+    <string name="retry">Retry</string>
+    <string name="search_hint">Search for a song</string>
+    <string name="error_no_results">No results found for \"%1$s\"</string>
+    <string name="about">About</string>
+    <string name="released_on">Released on:</string>
+    <string name="album">Album</string>
+    <string name="artists">Artists</string>
+    <string name="not_available_placeholder">N/A</string>
+    <string name="also_known_as">Also known as</string>
+    <string name="read_more">Read more</string>
+    <string name="read_less">Read less</string>
+</resources>
